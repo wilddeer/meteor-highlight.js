@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Code highlighting integrated with the markdown package",
-  version: "1.0.9",
+  version: "1.0.10",
   name: "wilddeer:highlight.js",
   git: "https://github.com/wilddeer/meteor-highlight.js"
 });
